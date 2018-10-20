@@ -1,5 +1,5 @@
 # search-element-in-simple-link-list-recursively
-Here is the program to find search element in simple link list recursively
+Here is the program to find search element in single link list recursively
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
